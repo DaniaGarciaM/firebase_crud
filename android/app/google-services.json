@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703878788378",
+    "project_id": "good-movies-53cc5",
+    "storage_bucket": "good-movies-53cc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703878788378:android:32f6b0bcef7431b1e428a3",
+        "android_client_info": {
+          "package_name": "com.example.good_movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjDswZe4QxEvbEPeTezEvd-AqqPHAQaEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
